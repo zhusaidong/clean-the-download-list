@@ -1,0 +1,16 @@
+{
+    "update_url": "https://clients2.google.com/service/update2/crx",
+    "manifest_version": 2,
+    "name": "auto clear download list",
+    "short_name": "ACDL",
+    "description": "After the download,5 seconds later,It will clear the download list automatically.",
+    "version": "0.0.2.0",
+    "permissions" : ["downloads","downloads.shelf"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "128": "assets/icon_128.png",
+        "16": "assets/icon_16.png"
+    }
+}
