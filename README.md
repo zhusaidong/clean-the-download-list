@@ -1,11 +1,14 @@
 ![Logo](https://raw.githubusercontent.com/zhusaidong/AutoClearDownloadList/master/assets/Original%20picture.jpg)
 
-# AutoClearDownloadList
+# clean-the-download-list
 
 > this is a chrome extension.
->> After the download,5 seconds later,It will clear the download list automatically.
-
+>> Automatically clean the download list.
 
 ## install
 
-You can install auto-clear-download-list through the Chrome web store: [auto-clear-download-list](https://chrome.google.com/webstore/detail/auto-clear-download-list/afgmphafdnlmmcbefefbpnimhgeilahe) 
+You can install clean-the-download-list through the Chrome web store: [clean-the-download-list](https://chrome.google.com/webstore/detail/auto-clear-download-list/afgmphafdnlmmcbefefbpnimhgeilahe) 
+
+## preview
+
+![preview.gif](preview.gif)
