@@ -1,13 +1,13 @@
 {
     "update_url": "https://clients2.google.com/service/update2/crx",
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "clean the download list",
     "short_name": "ACDL",
     "description": "Automatically clean the download list.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "permissions" : ["downloads","downloads.shelf"],
     "background": {
-        "scripts": ["background.js"]
+        "service_worker": "background.js"
     },
     "icons": {
         "128": "assets/icon_128.png",
